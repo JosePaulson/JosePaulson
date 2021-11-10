@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paulson Jose.
+- 👋 Hi, I’m Paulson Jose.
 - 👀 I’m interested in **Digital Electronics** and everthing around it.
 - 🌱 I’m currently learning OpenCV.
 - 📫 _paulson@hey.com_
